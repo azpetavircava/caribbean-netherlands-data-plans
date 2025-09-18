@@ -56,3 +56,10 @@ layout: default
 
 　　你有没有遇到过旅行时网络翻车的经历？欢迎分享你的故事——毕竟，网好才能玩好。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Caribbean Netherlands SIM 卡购买与激活指南](https://faciylike.github.io/caribbean-netherlands-sim-guides)
